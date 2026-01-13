@@ -4,7 +4,7 @@ Et enkelt, interaktivt Flappy Bird-inspirert spill laget med HTML5 Canvas og ren
 Prosjektet er utviklet som et porteføljeprosjekt med fokus på spill-logikk, struktur og brukeropplevelse.
 
 ## 🎮 Demo
-👉 Spill her: https://DIN-VERCEL-LENKE.vercel.app
+👉 Spill her: https://flappy-bird-ali.vercel.app/
 
 ## ✨ Funksjoner
 - Spill-loop basert på `requestAnimationFrame`
